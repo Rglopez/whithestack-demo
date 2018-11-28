@@ -1,0 +1,4 @@
+weight: 1
+name: "clouds"
+icon: "img/features/icon1.svg"
+description: "Highly scalable and cost-efficient public and private clouds with OpenStack."

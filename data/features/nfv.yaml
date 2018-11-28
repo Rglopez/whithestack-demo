@@ -1,0 +1,4 @@
+weight: 3
+name: "NFV"
+icon: "fa fa-sitemap"
+description: "ETSI architecture to virtualize network functions in a vendor-agnostic fashion."
